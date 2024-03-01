@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  This could be anything from a creative project like writing a song or designing a website to a more technical task like developing software or conducting research. The more specific you are, the better I can connect you with resources or potential collaborators.
 - 📫 How to reach me ...
 - 😄 Pronouns: BABU
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: All time coding thinking & type addicted
 
 <!---
 MdForhadHossainBabu/MdForhadHossainBabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
