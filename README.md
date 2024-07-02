@@ -1,4 +1,13 @@
+<div align="center">
+ 
+ 
+<img width="100%" src="https://plus.unsplash.com/premium_vector-1711987810156-4793e4aa786e?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cover" />
+</div>
+
 ## :chart_with_upwards_trend: Current Stats
+<h1 align="center"><img src = "https://img.freepik.com/free-vector/v813-aew-05_53876-166405.jpg?ga=GA1.1.1485751044.1718126294&semt=ais_user" width="50px" height="50px">, I'm Forhad Hossain</h1>  
+<h3 align="center">A passionate Web developer & Programming Enthusiast</h3>  
+<br>
 
 <br />
 <p align="center">
@@ -38,6 +47,9 @@
 <br/>
 <br/>
 <a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase">
+</a>
+<a href="">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
 </a>
 <a href="">
@@ -49,21 +61,22 @@
  ## 👀 About Me
  <hr/>
  <br/>
-- 🔭 I’m currently working on - own branding.
+🔭 I’m currently working on - own branding.
  <br/>
-- 🌱 I’m currently learning - Programming 
+🌱 I’m currently learning - Programming 
  <br/>
-- 👯 I’m looking to collaborate on - on those programming of dynamic website in user-friendly.
+👯 I’m looking to collaborate on - on those programming of dynamic website in user-friendly.
   <br/>
-- 🤔 I’m looking for help with - on others people to world wide.
+🤔 I’m looking for help with - on others people to world wide.
   <br/>
-- 💬 Ask me about ... what I'm doing.
+💬 Ask me about ... what I'm doing.
   <br/>
-- 📫 How to reach me: developerforhad2@gmail.com
+📫 How to reach me: developerforhad2@gmail.com
   <br/>
-- 😄 Pronouns: Forhad
+😄 Pronouns: Forhad
   <br/>
-- ⚡ Fun fact: I'm a certified On 💻 Programming Hero
+⚡ Fun fact: I'm a certified on 💻 Programming Hero
 
-
+ ## 👀 My Task Repository
+ - [hello](hello)
 
