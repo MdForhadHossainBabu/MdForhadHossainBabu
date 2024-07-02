@@ -6,8 +6,15 @@
 ## :mailbox: Reach me out
 
 <br />
+<p align="center">
+ 
+ [<img height="75" src="/assets/Facebook.png"> </p>](https://facebook.com/yesforhad)
+ [<img height="75" src="/assets/Twitter.png"> </p>](https://twitter.com/m_forhadhossain)
+ [<img height="75" src="/assets/Linkedin (1).png"> </p>](https://www.linkedin.com/in/mdforhadhossainbabu)
+ 
+</p>
 
-[<p align="center"><img height="75" src="/assets/Linkedin (1).png">](https://www.linkedin.com/in/mdforhadhossainbabu)[<img height="75" src="/assets/Facebook.png">](https://www.facebook.com/yesforhad)[<img height="75" src="/assets/Twitter.png"> </p>](https://twitter.com/m_forhadhossain)
+
 
 
 <br />
