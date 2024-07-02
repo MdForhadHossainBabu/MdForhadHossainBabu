@@ -7,7 +7,7 @@
 
 <br />
 
-[Facebook](https://facebook.com/yesforhad){ .md-button .md-button--primary }
+<a href="https://facebook.com/yesforhad" class="button big">Facebook</a>
 
 <br />
 
