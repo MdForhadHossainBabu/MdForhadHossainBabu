@@ -11,9 +11,7 @@
 
 <br />
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MdForhadHossainBabu%20&theme=ambient-gradient&hide_border=true&border_radius=5.5" alt="GitHub Streak" /></a></p>
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdForhadHossainBabu%20&theme=neon-palenight&hide_border=true" alt="GitHub Streak" /></a>
 <br />
 
 ## :computer: Technologies that I know / Skills
