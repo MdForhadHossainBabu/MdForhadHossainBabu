@@ -7,7 +7,8 @@
 
 <br />
 
-[<a href="https://iconscout.com/icons/follow" class="text-underline font-size-sm" target="_blank">follow-us-on-facebook</a> by <a href="https://iconscout.com/contributors/redaxy" class="text-underline font-size-sm">Reda Valeron</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>](https://facebook.com/yesforhad)
+[<p align="center"><img height="75" src="./assets/Facebook.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="/assets/Linkedin (1).png">](https://www.facebook.com/yesforhad)[<img height="75" src="/assets/Twitter.png"> </p>](https://twitter.com/m_forhadhossain)
+
 
 <br />
 
