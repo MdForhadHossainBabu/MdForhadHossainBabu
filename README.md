@@ -59,7 +59,7 @@
 
 
  ## 👀 About Me
- <hr/>
+
  <br/>
 🔭 I’m currently working on - own branding.
  <br/>
