@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1719905630~exp=1719909230~hmac=a0a7a3abed4ec04796a1dfcf6b48ca5344ebe4b97308c15ac74ddc2d13115d20&w=996" alt="cover" />
+<img width="100%" height="25%" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1719905630~exp=1719909230~hmac=a0a7a3abed4ec04796a1dfcf6b48ca5344ebe4b97308c15ac74ddc2d13115d20&w=996" alt="cover" />
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
