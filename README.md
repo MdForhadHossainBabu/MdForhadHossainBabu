@@ -7,7 +7,7 @@
 
 <br />
 
-<a href="https://facebook.com/yesforhad" class="button big">Facebook</a>
+[<a href="https://iconscout.com/icons/follow" class="text-underline font-size-sm" target="_blank">follow-us-on-facebook</a> by <a href="https://iconscout.com/contributors/redaxy" class="text-underline font-size-sm">Reda Valeron</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>](https://facebook.com/yesforhad)
 
 <br />
 
