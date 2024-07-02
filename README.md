@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://plus.unsplash.com/premium_vector-1711987810156-4793e4aa786e?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="cover" />
+<img width="100%" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1719905630~exp=1719909230~hmac=a0a7a3abed4ec04796a1dfcf6b48ca5344ebe4b97308c15ac74ddc2d13115d20&w=996" alt="cover" />
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -78,5 +78,7 @@
 ⚡ Fun fact: I'm a certified on 💻 Programming Hero
 
  ## 👀 My Task Repository
- - [hello](hello)
+ - [Doctor & Patients](https://github.com/MdForhadHossainBabu/Effective-task)
+ - [Craft Hunting](https://github.com/MdForhadHossainBabu/Hunting-Craft)
+ - [Estate Elite](https://github.com/MdForhadHossainBabu/Effective-task)
 
