@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" height="25%" src="/assets/banner.jpg" alt="cover" />
+<img width="100%" height="25%" src="/assets/banner1.jpg" alt="cover" />
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
