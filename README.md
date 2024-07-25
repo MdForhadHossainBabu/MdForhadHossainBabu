@@ -5,8 +5,8 @@
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
-<h1 align="center"><img src = "https://img.freepik.com/free-vector/v813-aew-05_53876-166405.jpg?ga=GA1.1.1485751044.1718126294&semt=ais_user" width="50px" height="50px">, I'm Forhad Hossain</h1>  
-<h3 align="center">A passionate Web developer & Programming Enthusiast</h3>  
+<h1 align="center">Hey<img src = "/assets/hi.gif" width="50px" height="50px">, I'm Forhad Hossain</h1>  
+<h3 align="center">A passionate Web developer & Programming Enthusiast</h3> 
 <br>
 
 <br />
